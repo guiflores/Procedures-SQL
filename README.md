@@ -21,6 +21,6 @@ END;
 ```
 
 ### Chamar uma Procedure
-````sql
+```sql
 CALL nome_da_procedure(parâmetros);
-````
+```
